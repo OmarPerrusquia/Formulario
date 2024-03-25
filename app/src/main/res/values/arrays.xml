@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carreras">
+        <item>Sistemas</item>
+        <item>Industrial</item>
+        <item>Electro</item>
+        <item>Gestion</item>
+        <item>Tics</item>
+        <item>Electronica</item>
+    </string-array>
+
+
+</resources>
+
